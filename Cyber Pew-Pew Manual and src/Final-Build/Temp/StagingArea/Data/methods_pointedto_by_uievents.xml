@@ -1,0 +1,11 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="UIManager">
+			<method name="Reset"/>
+			<method name="LoadLevel"/>
+			<method name="Reset"/>
+			<method name="LoadLevel"/>
+			<method name="Reset"/>
+		</type>
+	</assembly>
+</linker>
